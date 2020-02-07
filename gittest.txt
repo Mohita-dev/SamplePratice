@@ -1,14 +1,11 @@
 sample test test test
 dgffhgfgjhghj
-<<<<<<< HEAD
 jhjgh   
 gcgvhjj.nghj
 asd,shcs
 sdvsd
 fsdfsd
-=======
 ddevjhgjbhjbjhnm,nkjn
 
 klmkmlmkmkl
 komkokj
->>>>>>> 2b366ddd0a4b035dca69e0d054bda37dbd2aaf75
